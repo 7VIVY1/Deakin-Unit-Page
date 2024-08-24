@@ -16,4 +16,11 @@ p {
   font-family: Arial
 }
 
+/* Header Section Styling */
+.header {
+  background-color: darkcyan;
+  text-align: right;
+}
+
+/* Other styles, such as font settings, can be added here later */
 
